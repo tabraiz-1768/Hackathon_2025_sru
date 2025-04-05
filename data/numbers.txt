@@ -1,0 +1,10 @@
+૦ - 0 - Make a circle with thumb and index finger
+૧ - 1 - Raise index finger
+૨ - 2 - Raise index and middle fingers
+૩ - 3 - Raise three fingers (thumb, index, middle)
+૪ - 4 - Raise four fingers (except thumb)
+૫ - 5 - Raise all five fingers
+૬ - 6 - Touch thumb and pinky together
+૭ - 7 - Extend index and middle in V shape
+૮ - 8 - Touch middle and thumb together
+૯ - 9 - Make a claw shape with fingers
