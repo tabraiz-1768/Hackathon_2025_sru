@@ -1,6 +1,6 @@
 # Hackathon_2025_sru
 # 🧠 Sign Language Learning App (Java Console Application)
-Team 325 
+Team 325   
  2303a51768 (Tabraiz Khan)      : Batch 02  
  2303a51767 (Awez Ali)          : Batch 12  
  2303a51921 (Syed Abdul Mateen) : Batch 12  
